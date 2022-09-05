@@ -1,3 +1,3 @@
 ﻿  源.cpp
-E:\github\data structure code\data-structure-code\data-structure-code\Linear table\顺序表\源.cpp(65): warning C4715: “LocateElem”: 不是所有的控件路径都返回值
+E:\github\data structure code\data-structure-code\data-structure-code\Linear table\顺序表\源.cpp(67): warning C4715: “LocateElem”: 不是所有的控件路径都返回值
   顺序表.vcxproj -> E:\github\data structure code\data-structure-code\data-structure-code\Linear table\顺序表\x64\Debug\顺序表.exe
